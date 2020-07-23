@@ -1,0 +1,63 @@
+body{
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+}
+/* .main{
+   margin-left: 20%;
+} */
+.btn2{
+   cursor: pointer;
+   padding: 4px;
+   margin: 5px;
+   /* font-size: 1em; */
+   border: none;
+   background-color: royalblue;
+   color: white;
+   border-radius: 5px;
+   width: 8%;
+  
+ 
+}
+
+
+
+.btn3{
+    cursor: pointer;
+    padding: 9px;
+    margin: 5px;
+    font-size: 1.4em;
+    border: none;
+    background-color: royalblue;
+    color: white;
+    border-radius: 5px;
+   
+   
+    
+
+}
+  #toDoitem{
+      
+    font-size: 27px;
+    border-radius: 5px;
+} 
+
+.val{
+    font-size:30px;
+
+} 
+
+/* .btn{
+    margin-left: 5px;
+    cursor: pointer;
+    padding: 10px;
+    margin: 5px;
+    font-size: 1em;
+    border: none;
+    background-color: royalblue;
+    color: white;
+    border-radius: 5px;
+  
+} */
+
+
